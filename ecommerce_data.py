@@ -498,3 +498,4 @@
 {"Customer_ID":498,"Purchased_Goods_Euro":null,"Avg_Duration_on_Website_Minutes":60.0,"Address":"51458 Michael Creek, Travisview, IN 93523","Credit_Card_Number":"30524416164799"}
 {"Customer_ID":499,"Purchased_Goods_Euro":57.49,"Avg_Duration_on_Website_Minutes":43.0,"Address":"352 Amy Ford Suite 172, Davistown, AL 43975","Credit_Card_Number":"3594984265399247"}
 {"Customer_ID":500,"Purchased_Goods_Euro":47.34,"Avg_Duration_on_Website_Minutes":40.0,"Address":"279 Hunter Plains, Lake Jacobborough, OH 36942","Credit_Card_Number":"2720782017783307"}
+print ("Hello reader")
